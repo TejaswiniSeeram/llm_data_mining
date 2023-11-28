@@ -1,16 +1,19 @@
 LLM Data Mining
 
 
-Install the Prerequisites -
+Install the Prerequisites
 
 ```
-pip install pandas```
-
-
-
+pip install pandas
 ```
-pip install numpy```
+
 
 
 ```
-pip install scikit-learn```
+pip install numpy
+```
+
+
+```
+pip install scikit-learn
+```
